@@ -1,3 +1,3 @@
-limit-service:
-  min: 5
-  max: 25
+limits-service:
+  min: 5000
+  max: 25000
